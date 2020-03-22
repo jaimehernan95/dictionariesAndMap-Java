@@ -17,3 +17,5 @@ public class simpleHashMap {
         }
     }
 }
+
+// solution https://stackoverflow.com/questions/43478039/how-to-get-input-from-user-for-hashmap-using-scanner/43478122

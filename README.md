@@ -16,6 +16,15 @@
 
 Result
 
-<img width="964" alt="jarray reverse exampl" src="https://github.com/jaimehernan95/dictionariesAndMap-Java/blob/master/images/resultComplex.png">
+<img width="964" alt="Complex Hash Map input Order" src="https://github.com/jaimehernan95/dictionariesAndMap-Java/blob/master/images/resultComplex.png">
+
+
+# hacker Rank HasMap Day8 Example 
+
+
+Result
+
+<img width="964" alt="hackerRankHasMapDay8" src="https://github.com/jaimehernan95/dictionariesAndMap-Java/blob/master/images/hackerRankHasMapDay8.png">
+
 
 
